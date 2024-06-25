@@ -42,3 +42,4 @@ Hoy vamos a hacer actividad en Python en un día como programadores:
 
 12. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
 13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que se fue mostrando en comandos, y las respuesta del punto 11.
+![Ejecución de los pasos 12 y 13](/images/paso_12_y_13.png)
